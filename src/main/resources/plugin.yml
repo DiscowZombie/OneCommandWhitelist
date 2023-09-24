@@ -1,0 +1,13 @@
+name: OneCommandWhitelist
+version: '${version}'
+main: fr.discowzombie.onecommandwhitelist.OneCommandWhitelist
+authors:
+  - DiscowZombie
+commands:
+  onewl:
+    description: "Whitelist all players at once"
+    permission: "onewl.command.whitelist"
+permissions:
+  "onewl.command.whitelist":
+    description: "Allow access to the /onewl command"
+    default: op

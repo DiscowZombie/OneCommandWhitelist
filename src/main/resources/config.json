@@ -1,0 +1,5 @@
+{
+  "url": "https://gamesub.guill.productions/whitelist",
+  "mode": "COMMAND",
+  "command": "whitelist add %s"
+}
